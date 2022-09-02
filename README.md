@@ -28,7 +28,7 @@ You'll get best use out of this project if you're familiar with basic JavaScript
 
 ## Try this next 🏗️
 
-Take a look in `TODO.md` for next steps you can try out in your new site!
+Take a look in `TODO.md` for next steps you can try out in your new site! This is a test!
 
 ___Want a minimal version of this project to build your own Node.js app? Check out [Blank Node](https://glitch.com/edit/#!/remix/glitch-blank-node)!___
 
